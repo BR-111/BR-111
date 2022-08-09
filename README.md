@@ -12,16 +12,21 @@
 
 <p>   [Python, C#, C++, Bash]</p>
 
-#### -Database
-<p><img src='sql-logo.png' width='120' height='60' align='left'> </p>
 
-<p> [MySQL] </p>
+
+
+
+#### -Database
+<p><img src='sql-logo.png' width='150' height='90' align='left'> <br></p>
+<p> <br></p>
+<p> <br>   [MySQL] </p>
 
 
 
 #### -Other Technologies
 <p><img src='Linux_logo.jpg' width='120' height='120' align='left'> </p>
-<p> [Linux] </p>
+
+<p> [Linux]</p>
 
 <!---
 BR-111/BR-111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

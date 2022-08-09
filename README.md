@@ -5,6 +5,13 @@
 
 ### Technologies that I know how to use: 
 #### -Programming Languajes
+<p><img src='pythonlog.jpg' width='120' height='120' align='left'> </p>
+<p><img src='csharp.jpg' width='120' height='120' align='center'> </p>
+<p><img src='cpp.png' width='120' height='120' align='all'> </p>
+
+
+<p>   [Python, C#, C++, Bash]</p>
+
 #### -Database
 #### -Other Technologies
 <!---

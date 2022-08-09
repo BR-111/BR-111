@@ -1,5 +1,5 @@
 ### My name is Braulio Parra 👋
-#### Junior back-end developer, Computer Systems Engineering student, Junior IT Field Engineer and Cybersecurity trainee 💻👮.
+#### Junior back-end developer, Systems Engineering/Computer Science Student, Junior IT Field Engineer and Cybersecurity trainee 💻👮.
 
 
 

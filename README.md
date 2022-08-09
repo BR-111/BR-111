@@ -25,8 +25,8 @@
 
 ### -Other Technologies
 <p><img src='Linux_logo.jpg' width='120' height='120' align='left'></p>
-<p><img src='pandas.jpg' width='250' height='120' align='center'></p>
-<p><img src='dbeaver.png' width='120' height='120' align='center'></p>
+<p><img src='pandas.jpg' width='300' height='120' align='center'></p>
+<p><img src='dbeaver.png' width='180' height='120' align='center'></p>
 <p>  [Linux, Pandas, DBeaver]</p>
 
 <!---

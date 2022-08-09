@@ -1,4 +1,4 @@
-### Mi nombre es Braulio Parra 👋
+### My name is Braulio Parra 👋
 #### Desarrollador back-end Junior, estudiante de Ing. en Sistemas Computacionales, IT Field Engineer Junior y aprendiz de Ciberseguridad 💻👮.
 
 

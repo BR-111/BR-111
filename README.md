@@ -1,10 +1,10 @@
-### My name is Braulio Parra 👋
+## My name is Braulio Parra 👋
 #### Junior back-end developer, Systems Engineering/Computer Science Student, Junior IT Field Engineer and Cybersecurity trainee 👨‍💻.
 
 
 
 ### Technologies that I know how to use: 
-#### -Programming Languajes 👾
+### -Programming Languajes 👾
 <p><img src='pythonlog.jpg' width='120' height='120' align='left'> </p>
 <p><img src='csharp.jpg' width='120' height='120' align='center'> </p>
 <p><img src='cpp.png' width='120' height='120' align='left'> </p>
@@ -16,14 +16,14 @@
 
 
 
-#### -Database
+### -Database
 <p><img src='sql-logo.png' width='150' height='90' align='left'> <br></p>
 <p> <br></p>
 <p> <br>   [MySQL] </p>
 
 
 
-#### -Other Technologies
+### -Other Technologies
 <p><img src='Linux_logo.jpg' width='120' height='120' align='left'></p>
 <p><img src='pandas.jpg' width='250' height='120' align='center'></p>
 <p><img src='dbeaver.png' width='120' height='120' align='center'></p>

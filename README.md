@@ -2,8 +2,6 @@
 #### Junior back-end developer, Systems Engineering/Computer Science Student, Junior IT Field Engineer and Cybersecurity trainee 👨‍💻.
 
 
-
-### Technologies that I know how to use: 
 ### -Programming Languajes 👾
 <p><img src='pythonlog.jpg' width='120' height='120' align='left'> </p>
 <p><img src='csharp.jpg' width='120' height='120' align='center'> </p>

@@ -25,7 +25,8 @@
 <p><img src='Linux_logo.jpg' width='120' height='120' align='left'></p>
 <p><img src='pandas.jpg' width='300' height='120' align='center'></p>
 <p><img src='dbeaver.png' width='160' height='120' align='center'></p>
-<p>  [Linux, Pandas, DBeaver]</p>
+<p><img src='django.png' width='160' height='120' align='center'></p>
+<p>  [Linux, Pandas, DBeaver, DJango]</p>
 
 <!---
 BR-111/BR-111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
